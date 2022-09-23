@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Muadz/Downloads/HUJI/2019_20_sem_B/C_C++/Exercises/Ex2/Challenge2.c
+stdio.h
+-
+string.h
+-
+ctype.h
+-
+stdlib.h
+-
+

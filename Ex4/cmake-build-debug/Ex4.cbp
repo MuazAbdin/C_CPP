@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Ex4"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/Muadz/Downloads/HUJI/2019_20_sem_B/C_C++/Exercises/Ex4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2019_20_sem_B/C_C++/Exercises/Ex4/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2019_20_sem_B/C_C++/Exercises/Ex4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2019_20_sem_B/C_C++/Exercises/Ex4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2019_20_sem_B/C_C++/Exercises/Ex4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/Muadz/Downloads/HUJI/2019_20_sem_B/C_C++/Exercises/Ex4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2019_20_sem_B/C_C++/Exercises/Ex4/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2019_20_sem_B/C_C++/Exercises/Ex4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2019_20_sem_B/C_C++/Exercises/Ex4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2019_20_sem_B/C_C++/Exercises/Ex4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/Muadz/Downloads/HUJI/2019_20_sem_B/C_C++/Exercises/Ex4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2019_20_sem_B/C_C++/Exercises/Ex4/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2019_20_sem_B/C_C++/Exercises/Ex4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2019_20_sem_B/C_C++/Exercises/Ex4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2019_20_sem_B/C_C++/Exercises/Ex4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Ex4">
+				<Option output="/Users/Muadz/Downloads/HUJI/2019_20_sem_B/C_C++/Exercises/Ex4/cmake-build-debug/Ex4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Muadz/Downloads/HUJI/2019_20_sem_B/C_C++/Exercises/Ex4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2019_20_sem_B/C_C++/Exercises/Ex4/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ex4"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2019_20_sem_B/C_C++/Exercises/Ex4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2019_20_sem_B/C_C++/Exercises/Ex4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2019_20_sem_B/C_C++/Exercises/Ex4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Ex4/fast">
+				<Option output="/Users/Muadz/Downloads/HUJI/2019_20_sem_B/C_C++/Exercises/Ex4/cmake-build-debug/Ex4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Muadz/Downloads/HUJI/2019_20_sem_B/C_C++/Exercises/Ex4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2019_20_sem_B/C_C++/Exercises/Ex4/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ex4/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2019_20_sem_B/C_C++/Exercises/Ex4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2019_20_sem_B/C_C++/Exercises/Ex4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2019_20_sem_B/C_C++/Exercises/Ex4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/Muadz/Downloads/HUJI/2019_20_sem_B/C_C++/Exercises/Ex4/Activation.cpp">
+			<Option target="Ex4"/>
+		</Unit>
+		<Unit filename="/Users/Muadz/Downloads/HUJI/2019_20_sem_B/C_C++/Exercises/Ex4/Activation.h">
+			<Option target="Ex4"/>
+		</Unit>
+		<Unit filename="/Users/Muadz/Downloads/HUJI/2019_20_sem_B/C_C++/Exercises/Ex4/Dense.cpp">
+			<Option target="Ex4"/>
+		</Unit>
+		<Unit filename="/Users/Muadz/Downloads/HUJI/2019_20_sem_B/C_C++/Exercises/Ex4/Dense.h">
+			<Option target="Ex4"/>
+		</Unit>
+		<Unit filename="/Users/Muadz/Downloads/HUJI/2019_20_sem_B/C_C++/Exercises/Ex4/Digit.h">
+			<Option target="Ex4"/>
+		</Unit>
+		<Unit filename="/Users/Muadz/Downloads/HUJI/2019_20_sem_B/C_C++/Exercises/Ex4/Matrix.cpp">
+			<Option target="Ex4"/>
+		</Unit>
+		<Unit filename="/Users/Muadz/Downloads/HUJI/2019_20_sem_B/C_C++/Exercises/Ex4/Matrix.h">
+			<Option target="Ex4"/>
+		</Unit>
+		<Unit filename="/Users/Muadz/Downloads/HUJI/2019_20_sem_B/C_C++/Exercises/Ex4/MlpNetwork.cpp">
+			<Option target="Ex4"/>
+		</Unit>
+		<Unit filename="/Users/Muadz/Downloads/HUJI/2019_20_sem_B/C_C++/Exercises/Ex4/MlpNetwork.h">
+			<Option target="Ex4"/>
+		</Unit>
+		<Unit filename="/Users/Muadz/Downloads/HUJI/2019_20_sem_B/C_C++/Exercises/Ex4/main.cpp">
+			<Option target="Ex4"/>
+		</Unit>
+		<Unit filename="/Users/Muadz/Downloads/HUJI/2019_20_sem_B/C_C++/Exercises/Ex4/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

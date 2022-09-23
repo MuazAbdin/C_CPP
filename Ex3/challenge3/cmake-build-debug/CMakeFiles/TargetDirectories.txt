@@ -1,0 +1,3 @@
+/Users/Muadz/Downloads/HUJI/2019_20_sem_B/C_C++/Exercises/Ex3/challenge3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Muadz/Downloads/HUJI/2019_20_sem_B/C_C++/Exercises/Ex3/challenge3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Muadz/Downloads/HUJI/2019_20_sem_B/C_C++/Exercises/Ex3/challenge3/cmake-build-debug/CMakeFiles/challenge3.dir

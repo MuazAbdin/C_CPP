@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Muadz/Downloads/HUJI/2019_20_sem_B/C_C++/Exercises/Ex5/RecommenderSystem.cpp
+RecommenderSystem.h
+/Users/Muadz/Downloads/HUJI/2019_20_sem_B/C_C++/Exercises/Ex5/RecommenderSystem.h
+iostream
+-
+fstream
+-
+sstream
+-
+string
+-
+algorithm
+-
+cmath
+-
+numeric
+-
+
+/Users/Muadz/Downloads/HUJI/2019_20_sem_B/C_C++/Exercises/Ex5/RecommenderSystem.h
+string
+-
+vector
+-
+map
+-
+

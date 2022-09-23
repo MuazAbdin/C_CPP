@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Muadz/Downloads/HUJI/2019_20_sem_B/C_C++/Exercises/Ex3/ProductExample.c
+RBTree.h
+/Users/Muadz/Downloads/HUJI/2019_20_sem_B/C_C++/Exercises/Ex3/RBTree.h
+stdlib.h
+-
+string.h
+-
+stdio.h
+-
+
+/Users/Muadz/Downloads/HUJI/2019_20_sem_B/C_C++/Exercises/Ex3/RBTree.c
+RBTree.h
+/Users/Muadz/Downloads/HUJI/2019_20_sem_B/C_C++/Exercises/Ex3/RBTree.h
+stdlib.h
+-
+string.h
+-
+stdio.h
+-
+stdbool.h
+-
+
+/Users/Muadz/Downloads/HUJI/2019_20_sem_B/C_C++/Exercises/Ex3/RBTree.h
+

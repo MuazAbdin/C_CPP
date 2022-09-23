@@ -1,0 +1,45 @@
+Instructions:
+
+1. Put these 2 functions in your main file:
+2. To print your tree, simply use: 
+	
+	print2DUtil(tree->root,1,printNodeInt);
+
+3. The function printNodeInt can handle only Nodes with INT! if you want to test other types of data, you need to write 
+your own print function!!!
+
+void printNodeInt(Node *n)
+{
+	if(n == NULL)
+	{
+		printf("NULL");
+		return;
+	}
+	if (n->color == RED)
+	{
+		printf("\033[0;31m%d\033[0m",*(int *) n->data);
+	}
+	else
+	{
+		printf("%d", *(int *) n->data);
+	}
+}
+void print2DUtil(struct Node *root, int space, void (*printNode)(Node *n))
+{
+	space += 10;
+	if (root != NULL)
+	{
+		print2DUtil(root->right, space, printNode);
+	}
+	printf("\n");
+	for (int i = 10; i < space; i++)
+	{
+		printf(" ");
+	}
+	printNode(root);
+	printf("\n");
+	if (root != NULL)
+	{
+		print2DUtil(root->left, space, printNode);
+	}
+}
